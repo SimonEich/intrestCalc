@@ -18,8 +18,10 @@
     "@trpc/next": "^10.37.1",
     "@trpc/react-query": "^10.37.1",
     "@trpc/server": "^10.37.1",
+    "chart.js": "^4.4.0",
     "next": "^13.5.6",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "18.2.0",
     "superjson": "^1.13.1",
     "zod": "^3.22.4"
